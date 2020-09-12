@@ -1,0 +1,20 @@
+# Build directories
+
+out/
+build/
+
+# C++ objects and libs
+
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.dll
+*.dylib
+
+# GBA ROM files
+
+*.gba
